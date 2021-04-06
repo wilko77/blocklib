@@ -19,6 +19,7 @@ jobs:
         # Ref: https://raw.githubusercontent.com/actions/python-versions/main/versions-manifest.json
         os: [macos-latest, ubuntu-latest]
         python-version:
+          - "3.6"
           - "3.7"
           - "3.8"
           - "3.9"
